@@ -42,6 +42,8 @@ import Pom_Repo.ValidatationCampaignPage;
 public class CreateCampaignsWithProductTest extends Base{
 	@Test
 	public void createCampaignsWithProductTest() throws Throwable {
+
+		//Pull through GIT bash
 		
 //Login to vtiger application->mouseOverOn more Link->click on campaigns->click on create campaign lookup image->Enter campaignName->Click on Product plus img->
 //Handle the PopUp->Product name should be added to campaign createpage->click on save Btn->
