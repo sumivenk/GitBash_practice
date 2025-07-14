@@ -45,6 +45,7 @@ public class CreateCampaignsWithProductTest extends Base{
 
 		//Pull through GIT bash
 		//Push again through GIT bash
+//		Push again through GIT bash 222
 		
 //Login to vtiger application->mouseOverOn more Link->click on campaigns->click on create campaign lookup image->Enter campaignName->Click on Product plus img->
 //Handle the PopUp->Product name should be added to campaign createpage->click on save Btn->
